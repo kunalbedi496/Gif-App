@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gif-App/static/css/main.23bffde2.chunk.css",
+    "main.js": "/Gif-App/static/js/main.3abca1f0.chunk.js",
+    "main.js.map": "/Gif-App/static/js/main.3abca1f0.chunk.js.map",
+    "runtime-main.js": "/Gif-App/static/js/runtime-main.471079fc.js",
+    "runtime-main.js.map": "/Gif-App/static/js/runtime-main.471079fc.js.map",
+    "static/js/2.692db0e7.chunk.js": "/Gif-App/static/js/2.692db0e7.chunk.js",
+    "static/js/2.692db0e7.chunk.js.map": "/Gif-App/static/js/2.692db0e7.chunk.js.map",
+    "index.html": "/Gif-App/index.html",
+    "precache-manifest.74e073da88e2e85f5d9c86a27ac8aa80.js": "/Gif-App/precache-manifest.74e073da88e2e85f5d9c86a27ac8aa80.js",
+    "service-worker.js": "/Gif-App/service-worker.js",
+    "static/css/main.23bffde2.chunk.css.map": "/Gif-App/static/css/main.23bffde2.chunk.css.map",
+    "static/js/2.692db0e7.chunk.js.LICENSE.txt": "/Gif-App/static/js/2.692db0e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.471079fc.js",
+    "static/js/2.692db0e7.chunk.js",
+    "static/css/main.23bffde2.chunk.css",
+    "static/js/main.3abca1f0.chunk.js"
+  ]
+}
